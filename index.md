@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h3>#<a href="/index">Home</a>&nbsp; #<a href="/projects">Projects</a>&nbsp; #<a href="/talks">Talks</a>&nbsp; #<a href="/about">About</a></h3>
+<h4>#<a href="/index">Home</a>&nbsp; #<a href="/projects">Projects</a>&nbsp; #<a href="/talks">Talks</a>&nbsp; #<a href="/about">About</a></h4>
 <hr>
 <div class="blurb">
 	<br>
