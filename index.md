@@ -6,5 +6,6 @@ layout: default
 <div class="blurb">
 	<br>
 	<h1>Home</h1>
-	<p>Now that you're home, use the nav menu above to bounce around other areas of the site.</p>
+	<p>RIP JP Guill 2020/11/05</p>
+        <img src="/sadpanda.gif" alt="alternatetext">
 </div>
