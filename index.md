@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h4>Nav:&nbsp; #<a href="/index">Home</a>&nbsp; #<a href="/projects">Projects</a>&nbsp; #<a href="/talks">Talks</a>&nbsp; #<a href="/about">About</a></h4>
+<h3>#<a href="/index">Home</a>&nbsp; #<a href="/projects">Projects</a>&nbsp; #<a href="/talks">Talks</a>&nbsp; #<a href="/about">About</a></h3>
 <hr>
 <div class="blurb">
 	<br>
