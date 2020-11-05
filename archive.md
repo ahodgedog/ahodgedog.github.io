@@ -5,9 +5,6 @@ layout: default
 <hr>
 <div class="blurb">
 	<br>
-	<h1>Home</h1>
-	<p> Now that you've made it to the Home page, try clicking around to other pages.
-<br>
-	<p>RIP JP Guill 2020/11/05</p>
-        <img src="/sadpanda.gif" alt="alternatetext">
+	<h1>Archive</h1>
+	<p>This is where all of the old things go.</p>
 </div>
