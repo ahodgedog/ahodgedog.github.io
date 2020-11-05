@@ -8,6 +8,8 @@ layout: default
 	<h1>Home</h1>
 	<p> Now that you've made it to the Home page, try clicking around to other pages.
 <br>
+<hr>
+<br>
 	<p>RIP JP Guill 2020/11/05</p>
         <img src="/sadpanda.gif" alt="alternatetext">
 </div>
