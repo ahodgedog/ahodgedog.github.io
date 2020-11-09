@@ -7,4 +7,3 @@ layout: default
 	<br>
 	<h1>Home</h1>
 	<p> Now that you've made it to the Home page, try clicking around to other pages.
-</div>
